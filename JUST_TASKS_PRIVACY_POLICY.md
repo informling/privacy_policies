@@ -1,4 +1,6 @@
-**Privacy policy**
+**"To Do It" Privacy policy**
+
+"To Do It" is a application that helps you track you tasks.  The Privacy Policy refers to "To Do It" as "we" or "us" and to Application Users as "you"
 
 **Analytics**
 
